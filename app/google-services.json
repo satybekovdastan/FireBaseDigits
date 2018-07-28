@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "116066392885",
+    "firebase_url": "https://usluga-28a6c.firebaseio.com",
+    "project_id": "usluga-28a6c",
+    "storage_bucket": "usluga-28a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116066392885:android:d22a9c4f9f205bac",
+        "android_client_info": {
+          "package_name": "com.example.az.usluga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116066392885-grcnlgrg7068icqp6sbaqe6h6ci7qd4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.az.usluga",
+            "certificate_hash": "87559dc63e990d4e1998df90108516e54eb2bf62"
+          }
+        },
+        {
+          "client_id": "116066392885-tlb2ildhsp9metk15lvi45ieocmf62vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEOhDz3QrHggYyDjkdKpO6D6x6hkIa_gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116066392885-tlb2ildhsp9metk15lvi45ieocmf62vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
